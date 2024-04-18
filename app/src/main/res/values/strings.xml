@@ -1,0 +1,14 @@
+<resources>
+    <string name="add_chore_title">Add Chore</string>
+    <string name="chore_details_title">Chore Details</string>
+    <string name="history_title">History</string>
+    <string name="intro_page_title">Welcome</string>
+    <string name="chore_saved_title">Chore Saved</string>
+    <string name="modify_chore_title">Modify Chore</string>
+    <string name="home_page_title">Home</string>
+
+    <string name="my_profile_title">My Profile</string>
+    <string name="title_text" />
+    <string name="app_name" >Chores</string>
+
+</resources>
